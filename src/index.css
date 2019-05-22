@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.inputField {
+  height: 40px;
+  width: 350px;
+  margin-left: 10px;
+}
+.labelClass {
+  margin-left: 5px;
+  font-weight: bold;
+}
+.dropdownClass {
+  margin: 5px 10px 10px 10px;
+}
