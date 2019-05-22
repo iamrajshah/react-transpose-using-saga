@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-transpose-using-saga/static/css/main.5f914430.chunk.css",
+    "main.js": "/react-transpose-using-saga/static/js/main.c06dc5f7.chunk.js",
+    "main.js.map": "/react-transpose-using-saga/static/js/main.c06dc5f7.chunk.js.map",
+    "runtime~main.js": "/react-transpose-using-saga/static/js/runtime~main.3d65c76f.js",
+    "runtime~main.js.map": "/react-transpose-using-saga/static/js/runtime~main.3d65c76f.js.map",
+    "static/css/2.df9ef6f4.chunk.css": "/react-transpose-using-saga/static/css/2.df9ef6f4.chunk.css",
+    "static/js/2.1ecca0d1.chunk.js": "/react-transpose-using-saga/static/js/2.1ecca0d1.chunk.js",
+    "static/js/2.1ecca0d1.chunk.js.map": "/react-transpose-using-saga/static/js/2.1ecca0d1.chunk.js.map",
+    "index.html": "/react-transpose-using-saga/index.html",
+    "precache-manifest.283abdf80b7d2589f3cec630dcfc128a.js": "/react-transpose-using-saga/precache-manifest.283abdf80b7d2589f3cec630dcfc128a.js",
+    "service-worker.js": "/react-transpose-using-saga/service-worker.js",
+    "static/css/2.df9ef6f4.chunk.css.map": "/react-transpose-using-saga/static/css/2.df9ef6f4.chunk.css.map",
+    "static/css/main.5f914430.chunk.css.map": "/react-transpose-using-saga/static/css/main.5f914430.chunk.css.map"
+  }
+}
